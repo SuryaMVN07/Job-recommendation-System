@@ -21,3 +21,13 @@ User Interface Screenshots
 
   <img width="975" height="447" alt="image" src="https://github.com/user-attachments/assets/f6a5e61c-4fd3-4b47-90ad-939a6a35b207" />
 
+Job Match AI improves productivity in job search and provides relevant recommendations using NLP-based skill mapping and machine learning.
+
+The proposed JobMatch AI successfully:
+
+✔ Extracts candidate skills from resumes
+✔ Computes semantic similarity using ML
+✔ Delivers highly relevant job recommendations
+✔ Provides a modern and interactive user experience
+
+This demonstrates that AI improves recruitment efficiency and supports smart career decision-making.
