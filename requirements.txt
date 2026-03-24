@@ -1,0 +1,9 @@
+flask
+flask-sqlalchemy
+scikit-learn
+PyPDF2
+python-docx
+spacy
+pandas
+werkzeug
+gunicorn
